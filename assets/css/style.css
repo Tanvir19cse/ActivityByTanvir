@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    color: turquoise;
+    font-size: x-large;
+}
+.activity{
+    color: black;
+    padding-left: 10px;
+}
+
+.banner{
+    background: linear-gradient(to left, rgba(0,0,0,.6),rgba(0,0,0,.6)),url(../img/banner.jpg);
+    background-size: cover;
+}
+
+.colorr{
+    background-color: teal;
+}
+
+.buttn{
+    background-color: aliceblue;
+    color: black;
+    transition: .5s ease;
+}
+
+.buttn1{
+    background-color: #333;
+    color: white;
+    transition: .5s ease;
+}
+
+.buttn:hover{
+    background-color: dimgray;
+    color: white;
+}
+
+.buttn1:hover{
+    background-color: white;
+    color: dimgray;
+}
+
+.rong{
+    padding: 10px;
+    background-color: black;
+}
+
+.fb{
+    background-color: #222;
+}
+.footer{
+    color: #999;
+}
+
+.foot{
+    text-decoration: none;
+    color: #999;
+}
+
+.foot:hover{
+    color: white;
+}
